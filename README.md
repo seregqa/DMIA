@@ -1,2 +1,2 @@
-# my_repository
-for test
+# MIPT_DMIA
+for hws
